@@ -2,6 +2,11 @@
 #include <stdlib.h>
 #include <time.h>
 
+/* 
+ Game: Rock Paper Scissors
+ Created by: Brenden Boswell
+*/ 	
+
 void gameEngine(int); /* This method is designed to evaluate the winner */
 
 int main()
@@ -18,7 +23,6 @@ int main()
     printf("#\t\tRock Paper Scissors\n");
     printf("#############################################################\n");
     printf("#  Developer: Brenden Boswell\n");
-    printf("#  School:    The Ohio State University (Go Bucks!)\n");
     printf("#  Intro: Welcome to my version of Rock-Paper-Scissors. Below,\n");
     printf("#         you will find instruction on how to play this game!\n");
     printf("#  RULES:\n");
