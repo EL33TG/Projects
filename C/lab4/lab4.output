@@ -1,0 +1,475 @@
+Reading student information from file "class_records"
+A total of 41 student records were read from the file class_records
+
+
+Please enter an option between 1 and 10:
+1)  Print Student Scores by Student ID
+2)  Print Student Scores by Last Name
+3)  Print Student Scores for All Students
+4)  Recalculate Student Scores for a Single Student ID
+5)  Recalculate All Student Scores
+6)  Insert a score for a specific Student ID
+7)  Calculate Final Grades
+8)  Add a new student
+9)  Delete a student
+10) Exit Program
+
+Option:  3
+Student Name	   Student ID#	Quizzes				Midterms			Homework			Final				Current	Final
+				  1       2       3       Cum	   1       2       3     Cum	   1       2       3       Cum     1       2       3      Cum	Grade	Grade
+Lavette Gilliard       3570	100.00	 87.50	100.00	 95.83   76.30	 96.90	  n/a	 86.60   83.33	 65.50	  0.00	 49.61   53.00	  n/a	  n/a	 53.00   68.83    n/a
+Torie Carriere         4782	 90.00	 87.50	 85.00	 87.50   80.20	 88.50	  n/a	 84.35   94.19	 87.50	 92.40	 91.36  102.00	  n/a	  n/a	102.00   92.40    n/a
+Corey Commons          9058	 90.00	 81.30	100.00	 90.43   91.60	 84.00	  n/a	 87.80   96.12	 86.00	 93.40	 91.84  107.00	  n/a	  n/a	107.00   95.72    n/a
+Caleb Lim              9871	 80.00	 81.30	 10.00	 57.10   72.20	 86.30	  n/a	 79.25   66.67	 72.30	 60.50	 66.49   72.00	  n/a	  n/a	 72.00   70.84    n/a
+Jeane Gershman        10843	 50.00	 81.30	 60.00	 63.77   50.40	 98.50	  n/a	 74.45   78.29	 73.20	  0.00	 50.50   42.00	  n/a	  n/a	 42.00   56.70    n/a
+Trinity Radcliff      10983	100.00	 75.00	 70.00	 81.67   96.90	 67.90	  n/a	 82.40   91.86	 84.50	 82.20	 86.19  101.00	  n/a	  n/a	101.00   89.56    n/a
+Lakesha Melchior      11170	 90.00	 81.30	 90.00	 87.10   68.70	 72.50	  n/a	 70.60   85.27	 89.30	 93.40	 89.32  101.00	  n/a	  n/a	101.00   87.46    n/a
+John Smith            11211	100.00	100.00	100.00	100.00  100.00	100.00	100.00	100.00  100.00	100.00	100.00	100.00  100.00	  n/a	  n/a	100.00  100.00    n/a
+Dara Pascale          11629	 90.00	 87.50	100.00	 92.50   85.50	 84.00	  n/a	 84.75   91.47	 81.80	 72.40	 81.89   90.00	  n/a	  n/a	 90.00   87.18    n/a
+Renita Degenhardt     11675	 90.00	 87.50	100.00	 92.50   96.20	 71.00	  n/a	 83.60  100.00	 86.60	 92.80	 93.13  108.00	  n/a	  n/a	108.00   95.38    n/a
+Cyrstal Lichtman      11684	 90.00	 81.30	100.00	 90.43   95.40	 92.30	  n/a	 93.85   96.12	 86.90	 92.80	 91.94  104.00	  n/a	  n/a	104.00   96.51    n/a
+Tanja Start           11714	 90.00	 93.80	 85.00	 89.60   88.50	 99.20	  n/a	 93.85   92.25	 65.60	 78.30	 78.72  105.00	  n/a	  n/a	105.00   94.09    n/a
+Clarita Marcinkowski  11756	100.00	 81.30	100.00	 93.77   99.20	 87.00	  n/a	 93.10  100.00	 90.20	 92.10	 94.10  103.00	  n/a	  n/a	103.00   96.86    n/a
+Leonore Rogowski      11777	 90.00	 93.80	 80.00	 87.93   91.60	100.80	  n/a	 96.20   86.05	 88.10	 86.10	 86.75  100.00	  n/a	  n/a	100.00   94.40    n/a
+Melodi Hanselman      11800	 90.00	 81.30	 90.00	 87.10   78.60	 90.10	  n/a	 84.35   93.02	 93.50	  0.00	 62.17   81.00	  n/a	  n/a	 81.00   79.15    n/a
+Hilton Luedke         11805	 80.00	 62.50	  0.00	 47.50   47.30	 48.90	  n/a	 48.10    0.00	 31.80	 27.60	 19.80   53.00	  n/a	  n/a	 53.00   44.06    n/a
+Kayleigh Bleich       11811	  0.00	 87.50	100.00	 62.50   87.80	100.80	  n/a	 94.30   93.80	 83.00	 90.80	 89.20   99.00	  n/a	  n/a	 99.00   90.15    n/a
+Deeanna Gregorich     11828	 90.00	 87.50	 80.00	 85.83  100.00	100.80	  n/a	100.40  100.00	 77.10	 96.70	 91.27  101.00	  n/a	  n/a	101.00   96.60    n/a
+Darwin Faison         11836	 90.00	  0.00	  0.00	 30.00   82.40	 92.40	  n/a	 87.40    0.00	  0.00	 16.40	  5.47   41.00	  n/a	  n/a	 41.00   46.16    n/a
+Sammie Malcom         11884	 80.00	 81.30	  0.00	 53.77   86.30	 85.50	  n/a	 85.90   86.05	 82.10	 69.70	 79.28   90.00	  n/a	  n/a	 90.00   81.19    n/a
+Madalene Kelch        11929	 90.00	 93.80	 85.00	 89.60   85.50	 91.60	  n/a	 88.55   96.12	 84.50	 77.60	 86.07  102.00	  n/a	  n/a	102.00   92.92    n/a
+Leoma Maggio          11951	 90.00	 81.30	100.00	 90.43   81.70	 74.80	  n/a	 78.25   97.67	 84.20	 90.80	 90.89  100.00	  n/a	  n/a	100.00   90.22    n/a
+Lexie Loiacono        11952	 90.00	100.00	 90.00	 93.33   80.20	102.30	  n/a	 91.25   88.76	 60.40	 80.20	 76.45   79.00	  n/a	  n/a	 79.00   84.32    n/a
+Jenniffer Gong        11963	 70.00	 87.50	 90.00	 82.50  101.50	 87.00	  n/a	 94.25   82.95	 71.40	 78.90	 77.75   97.00	  n/a	  n/a	 97.00   90.15    n/a
+Rico Longoria         12016	 90.00	 93.80	  0.00	 61.27   88.90	103.80	  n/a	 96.35   90.70	 85.40	 82.90	 86.33  102.00	  n/a	  n/a	102.00   91.06    n/a
+Dani Calcagno         12052	 90.00	 87.50	100.00	 92.50  107.60	 84.00	  n/a	 95.80   84.50	 81.30	 92.10	 85.97  106.00	  n/a	  n/a	106.00   96.91    n/a
+Soledad Vo            12075	 80.00	 68.80	 75.00	 74.60    n/a	  n/a	  n/a	  n/a	 88.37	 82.10	 74.30	 81.59   84.00	  n/a	  n/a	 84.00   86.91    n/a
+Eufemia Brunke        12080	 90.00	 75.00	100.00	 88.33   84.00	 82.40	  n/a	 83.20   97.67	 88.40	 77.60	 87.89  104.00	  n/a	  n/a	104.00   92.19    n/a
+Horace Rosengarten    12082	 80.00	100.00	100.00	 93.33   89.30	 98.50	  n/a	 93.90   80.62	 80.40	 87.50	 82.84   89.00	  n/a	  n/a	 89.00   89.89    n/a
+Vikki Rohan           12097	 90.00	 81.30	 70.00	 80.43   85.50	 93.10	  n/a	 89.30   96.12	 80.90	 69.70	 82.24  100.00	  n/a	  n/a	100.00   90.30    n/a
+Gonzalo Salo          12149	 90.00	100.00	100.00	 96.67  107.60	 76.30	  n/a	 91.95   97.48	 85.40	 92.10	 91.66  104.00	  n/a	  n/a	104.00   96.82    n/a
+Sarai Mancilla        12150	 90.00	 68.80	 80.00	 79.60  101.50	 96.90	  n/a	 99.20   82.56	 85.70	 92.80	 87.02   90.00	  n/a	  n/a	 90.00   90.60    n/a
+Lea Bayles            12163	100.00	 87.50	 60.00	 82.50  103.10	 90.10	  n/a	 96.60   94.57	 82.10	 92.10	 89.59   93.00	  n/a	  n/a	 93.00   91.82    n/a
+Filiberto Callison    12178	 90.00	 81.30	 70.00	 80.43   89.30	 89.30	  n/a	 89.30   96.12	 87.50	 89.50	 91.04   87.00	  n/a	  n/a	 87.00   87.51    n/a
+Eliz Stockstill       12591	 80.00	 87.50	100.00	 89.17   95.40	 87.00	  n/a	 91.20   82.95	 85.40	 96.70	 88.35   98.00	  n/a	  n/a	 98.00   92.71    n/a
+Brunilda Gassner      12764	  0.00	 87.50	 90.00	 59.17    n/a	 93.10	  n/a	 93.10   80.62	 89.30	 96.70	 88.87   93.00	  n/a	  n/a	 93.00   87.13    n/a
+Danae Paniagua        13085	 70.00	 75.00	 10.00	 51.67   51.90	 87.80	  n/a	 69.85   74.42	 61.90	 42.10	 59.47   33.00	  n/a	  n/a	 33.00   52.15    n/a
+Kathie Boaz           13115	 90.00	 81.30	 90.00	 87.10   87.00	 74.00	  n/a	 80.50   97.67	 90.20	 86.80	 91.56   92.00	  n/a	  n/a	 92.00   87.73    n/a
+Jerrie Nieto          13120	  0.00	 75.00	100.00	 58.33   79.40	 67.90	  n/a	 73.65   84.50	 84.80	 78.90	 82.73   89.50	  n/a	  n/a	 89.50   78.72    n/a
+Denice Hargett        13128	 80.00	 75.00	100.00	 85.00   90.10	 73.30	  n/a	 81.70   96.12	 86.30	 79.60	 87.34   90.00	  n/a	  n/a	 90.00   86.23    n/a
+Sol Mcknight          13147	100.00	 93.80	 80.00	 91.27   75.20	 76.30	  n/a	 75.75   88.37	 86.30	 66.40	 80.36   89.00	  n/a	  n/a	 89.00   83.64    n/a
+
+Class Averages for Quizzes: 80.10, Midterms: 84.49, Homework: 79.88, Final: 89.62 Current Grade  85.44
+
+
+
+Please enter an option between 1 and 10:
+1)  Print Student Scores by Student ID
+2)  Print Student Scores by Last Name
+3)  Print Student Scores for All Students
+4)  Recalculate Student Scores for a Single Student ID
+5)  Recalculate All Student Scores
+6)  Insert a score for a specific Student ID
+7)  Calculate Final Grades
+8)  Add a new student
+9)  Delete a student
+10) Exit Program
+
+Option:  1
+Enter the Student ID #: 11811
+Hunting for 11811
+
+Student Name	   Student ID#	Quizzes				Midterms			Homework			Final				Current	Final
+				  1       2       3       Cum	   1       2       3     Cum	   1       2       3       Cum     1       2       3      Cum	Grade	Grade
+Kayleigh Bleich       11811	  0.00	 87.50	100.00	 62.50   87.80	100.80	  n/a	 94.30   93.80	 83.00	 90.80	 89.20   99.00	  n/a	  n/a	 99.00   90.15    n/a
+
+
+Please enter an option between 1 and 10:
+1)  Print Student Scores by Student ID
+2)  Print Student Scores by Last Name
+3)  Print Student Scores for All Students
+4)  Recalculate Student Scores for a Single Student ID
+5)  Recalculate All Student Scores
+6)  Insert a score for a specific Student ID
+7)  Calculate Final Grades
+8)  Add a new student
+9)  Delete a student
+10) Exit Program
+
+Option:  2
+Enter the Student's Last Name: ol
+Hunting for ol
+There is more than one student by that name.
+ 1) Soledad Vo
+ 2) Sol Mcknight
+Please indicate which student you want:  1
+Student Name	   Student ID#	Quizzes				Midterms			Homework			Final				Current	Final
+				  1       2       3       Cum	   1       2       3     Cum	   1       2       3       Cum     1       2       3      Cum	Grade	Grade
+Soledad Vo            12075	 80.00	 68.80	 75.00	 74.60    n/a	  n/a	  n/a	  n/a	 88.37	 82.10	 74.30	 81.59   84.00	  n/a	  n/a	 84.00   86.91    n/a
+
+
+Please enter an option between 1 and 10:
+1)  Print Student Scores by Student ID
+2)  Print Student Scores by Last Name
+3)  Print Student Scores for All Students
+4)  Recalculate Student Scores for a Single Student ID
+5)  Recalculate All Student Scores
+6)  Insert a score for a specific Student ID
+7)  Calculate Final Grades
+8)  Add a new student
+9)  Delete a student
+10) Exit Program
+
+Option:  6
+Enter the Student ID #: 11811
+Hunting for 11811
+Insert a Score for Kayleigh Bleich?  Enter 1, if yes. Enter 2, if no:  1
+Which category?
+1) Quizzes
+2) Midterms
+3) Homework
+4) Final
+1
+Which score?
+Enter 1, 2, or 3
+1
+Enter New Score:  62.5
+Student Name	   Student ID#	Quizzes				Midterms			Homework			Final				Current	Final
+				  1       2       3       Cum	   1       2       3     Cum	   1       2       3       Cum     1       2       3      Cum	Grade	Grade
+Kayleigh Bleich       11811	 62.50	 87.50	100.00	 62.50   87.80	100.80	  n/a	 94.30   93.80	 83.00	 90.80	 89.20   99.00	  n/a	  n/a	 99.00   90.15    n/a
+Note:  Category Cums, Current Grade and Final Grade have not been recalculated based on the new value entered.
+
+
+Please enter an option between 1 and 10:
+1)  Print Student Scores by Student ID
+2)  Print Student Scores by Last Name
+3)  Print Student Scores for All Students
+4)  Recalculate Student Scores for a Single Student ID
+5)  Recalculate All Student Scores
+6)  Insert a score for a specific Student ID
+7)  Calculate Final Grades
+8)  Add a new student
+9)  Delete a student
+10) Exit Program
+
+Option:  4
+What is the Student ID for the scores you want to recalculate?
+ Student ID:  11811
+Recalculating grades for Kayleigh Bleich, Student ID Number: 11811
+Quizzes Cumlative:  83.33
+Midterms Cumlative:  94.30
+Homework Cumlative:  89.20
+Final Cumlative:  99.00
+Current Grade is:  93.28
+Student's Final Grade was deleted
+
+
+Please enter an option between 1 and 10:
+1)  Print Student Scores by Student ID
+2)  Print Student Scores by Last Name
+3)  Print Student Scores for All Students
+4)  Recalculate Student Scores for a Single Student ID
+5)  Recalculate All Student Scores
+6)  Insert a score for a specific Student ID
+7)  Calculate Final Grades
+8)  Add a new student
+9)  Delete a student
+10) Exit Program
+
+Option:  8
+Enter the Student's Name: Connor Hurley
+Enter the Student's ID Number: 19299
+Enter first Quizzes score (use -1 if there is no score): 85.3
+Enter second Quizzes score (use -1 if there is no score): 93
+Enter third Quizzes score (use -1 if there is no score): 75
+Enter first Midterms score (use -1 if there is no score): 87
+Enter second Midterms score (use -1 if there is no score): 92.3
+Enter third Midterms score (use -1 if there is no score): -1
+Enter first Homework score (use -1 if there is no score): 88
+Enter second Homework score (use -1 if there is no score): 100
+Enter third Homework score (use -1 if there is no score): 75
+Enter first Final score (use -1 if there is no score): 97.4
+Enter second Final score (use -1 if there is no score): -1
+Enter third Final score (use -1 if there is no score): -1
+Conner Hurley, Student ID# 19299 has been added with the following information:
+
+Student Name	   Student ID#	Quizzes				Midterms			Homework			Final				Current	Final
+				  1       2       3       Cum	   1       2       3     Cum	   1       2       3       Cum     1       2       3      Cum	Grade	Grade
+Conner Hurley         19299	 85.30	 93.00	 75.00	 84.43   87.00	 92.30	  n/a	 89.65   88.00	100.00	 75.00	 87.67   97.40	  n/a	  n/a	 97.40   91.18    n/a
+
+
+Please enter an option between 1 and 10:
+1)  Print Student Scores by Student ID
+2)  Print Student Scores by Last Name
+3)  Print Student Scores for All Students
+4)  Recalculate Student Scores for a Single Student ID
+5)  Recalculate All Student Scores
+6)  Insert a score for a specific Student ID
+7)  Calculate Final Grades
+8)  Add a new student
+9)  Delete a student
+10) Exit Program
+
+Option: 3  
+Student Name	   Student ID#	Quizzes				Midterms			Homework			Final				Current	Final
+				  1       2       3       Cum	   1       2       3     Cum	   1       2       3       Cum     1       2       3      Cum	Grade	Grade
+Lavette Gilliard       3570	100.00	 87.50	100.00	 95.83   76.30	 96.90	  n/a	 86.60   83.33	 65.50	  0.00	 49.61   53.00	  n/a	  n/a	 53.00   68.83    n/a
+Torie Carriere         4782	 90.00	 87.50	 85.00	 87.50   80.20	 88.50	  n/a	 84.35   94.19	 87.50	 92.40	 91.36  102.00	  n/a	  n/a	102.00   92.40    n/a
+Corey Commons          9058	 90.00	 81.30	100.00	 90.43   91.60	 84.00	  n/a	 87.80   96.12	 86.00	 93.40	 91.84  107.00	  n/a	  n/a	107.00   95.72    n/a
+Caleb Lim              9871	 80.00	 81.30	 10.00	 57.10   72.20	 86.30	  n/a	 79.25   66.67	 72.30	 60.50	 66.49   72.00	  n/a	  n/a	 72.00   70.84    n/a
+Jeane Gershman        10843	 50.00	 81.30	 60.00	 63.77   50.40	 98.50	  n/a	 74.45   78.29	 73.20	  0.00	 50.50   42.00	  n/a	  n/a	 42.00   56.70    n/a
+Trinity Radcliff      10983	100.00	 75.00	 70.00	 81.67   96.90	 67.90	  n/a	 82.40   91.86	 84.50	 82.20	 86.19  101.00	  n/a	  n/a	101.00   89.56    n/a
+Lakesha Melchior      11170	 90.00	 81.30	 90.00	 87.10   68.70	 72.50	  n/a	 70.60   85.27	 89.30	 93.40	 89.32  101.00	  n/a	  n/a	101.00   87.46    n/a
+John Smith            11211	100.00	100.00	100.00	100.00  100.00	100.00	100.00	100.00  100.00	100.00	100.00	100.00  100.00	  n/a	  n/a	100.00  100.00    n/a
+Dara Pascale          11629	 90.00	 87.50	100.00	 92.50   85.50	 84.00	  n/a	 84.75   91.47	 81.80	 72.40	 81.89   90.00	  n/a	  n/a	 90.00   87.18    n/a
+Renita Degenhardt     11675	 90.00	 87.50	100.00	 92.50   96.20	 71.00	  n/a	 83.60  100.00	 86.60	 92.80	 93.13  108.00	  n/a	  n/a	108.00   95.38    n/a
+Cyrstal Lichtman      11684	 90.00	 81.30	100.00	 90.43   95.40	 92.30	  n/a	 93.85   96.12	 86.90	 92.80	 91.94  104.00	  n/a	  n/a	104.00   96.51    n/a
+Tanja Start           11714	 90.00	 93.80	 85.00	 89.60   88.50	 99.20	  n/a	 93.85   92.25	 65.60	 78.30	 78.72  105.00	  n/a	  n/a	105.00   94.09    n/a
+Clarita Marcinkowski  11756	100.00	 81.30	100.00	 93.77   99.20	 87.00	  n/a	 93.10  100.00	 90.20	 92.10	 94.10  103.00	  n/a	  n/a	103.00   96.86    n/a
+Leonore Rogowski      11777	 90.00	 93.80	 80.00	 87.93   91.60	100.80	  n/a	 96.20   86.05	 88.10	 86.10	 86.75  100.00	  n/a	  n/a	100.00   94.40    n/a
+Melodi Hanselman      11800	 90.00	 81.30	 90.00	 87.10   78.60	 90.10	  n/a	 84.35   93.02	 93.50	  0.00	 62.17   81.00	  n/a	  n/a	 81.00   79.15    n/a
+Hilton Luedke         11805	 80.00	 62.50	  0.00	 47.50   47.30	 48.90	  n/a	 48.10    0.00	 31.80	 27.60	 19.80   53.00	  n/a	  n/a	 53.00   44.06    n/a
+Kayleigh Bleich       11811	 62.50	 87.50	100.00	 83.33   87.80	100.80	  n/a	 94.30   93.80	 83.00	 90.80	 89.20   99.00	  n/a	  n/a	 99.00   93.28    n/a
+Deeanna Gregorich     11828	 90.00	 87.50	 80.00	 85.83  100.00	100.80	  n/a	100.40  100.00	 77.10	 96.70	 91.27  101.00	  n/a	  n/a	101.00   96.60    n/a
+Darwin Faison         11836	 90.00	  0.00	  0.00	 30.00   82.40	 92.40	  n/a	 87.40    0.00	  0.00	 16.40	  5.47   41.00	  n/a	  n/a	 41.00   46.16    n/a
+Sammie Malcom         11884	 80.00	 81.30	  0.00	 53.77   86.30	 85.50	  n/a	 85.90   86.05	 82.10	 69.70	 79.28   90.00	  n/a	  n/a	 90.00   81.19    n/a
+Madalene Kelch        11929	 90.00	 93.80	 85.00	 89.60   85.50	 91.60	  n/a	 88.55   96.12	 84.50	 77.60	 86.07  102.00	  n/a	  n/a	102.00   92.92    n/a
+Leoma Maggio          11951	 90.00	 81.30	100.00	 90.43   81.70	 74.80	  n/a	 78.25   97.67	 84.20	 90.80	 90.89  100.00	  n/a	  n/a	100.00   90.22    n/a
+Lexie Loiacono        11952	 90.00	100.00	 90.00	 93.33   80.20	102.30	  n/a	 91.25   88.76	 60.40	 80.20	 76.45   79.00	  n/a	  n/a	 79.00   84.32    n/a
+Jenniffer Gong        11963	 70.00	 87.50	 90.00	 82.50  101.50	 87.00	  n/a	 94.25   82.95	 71.40	 78.90	 77.75   97.00	  n/a	  n/a	 97.00   90.15    n/a
+Rico Longoria         12016	 90.00	 93.80	  0.00	 61.27   88.90	103.80	  n/a	 96.35   90.70	 85.40	 82.90	 86.33  102.00	  n/a	  n/a	102.00   91.06    n/a
+Dani Calcagno         12052	 90.00	 87.50	100.00	 92.50  107.60	 84.00	  n/a	 95.80   84.50	 81.30	 92.10	 85.97  106.00	  n/a	  n/a	106.00   96.91    n/a
+Soledad Vo            12075	 80.00	 68.80	 75.00	 74.60    n/a	  n/a	  n/a	  n/a	 88.37	 82.10	 74.30	 81.59   84.00	  n/a	  n/a	 84.00   86.91    n/a
+Eufemia Brunke        12080	 90.00	 75.00	100.00	 88.33   84.00	 82.40	  n/a	 83.20   97.67	 88.40	 77.60	 87.89  104.00	  n/a	  n/a	104.00   92.19    n/a
+Horace Rosengarten    12082	 80.00	100.00	100.00	 93.33   89.30	 98.50	  n/a	 93.90   80.62	 80.40	 87.50	 82.84   89.00	  n/a	  n/a	 89.00   89.89    n/a
+Vikki Rohan           12097	 90.00	 81.30	 70.00	 80.43   85.50	 93.10	  n/a	 89.30   96.12	 80.90	 69.70	 82.24  100.00	  n/a	  n/a	100.00   90.30    n/a
+Gonzalo Salo          12149	 90.00	100.00	100.00	 96.67  107.60	 76.30	  n/a	 91.95   97.48	 85.40	 92.10	 91.66  104.00	  n/a	  n/a	104.00   96.82    n/a
+Sarai Mancilla        12150	 90.00	 68.80	 80.00	 79.60  101.50	 96.90	  n/a	 99.20   82.56	 85.70	 92.80	 87.02   90.00	  n/a	  n/a	 90.00   90.60    n/a
+Lea Bayles            12163	100.00	 87.50	 60.00	 82.50  103.10	 90.10	  n/a	 96.60   94.57	 82.10	 92.10	 89.59   93.00	  n/a	  n/a	 93.00   91.82    n/a
+Filiberto Callison    12178	 90.00	 81.30	 70.00	 80.43   89.30	 89.30	  n/a	 89.30   96.12	 87.50	 89.50	 91.04   87.00	  n/a	  n/a	 87.00   87.51    n/a
+Eliz Stockstill       12591	 80.00	 87.50	100.00	 89.17   95.40	 87.00	  n/a	 91.20   82.95	 85.40	 96.70	 88.35   98.00	  n/a	  n/a	 98.00   92.71    n/a
+Brunilda Gassner      12764	  0.00	 87.50	 90.00	 59.17    n/a	 93.10	  n/a	 93.10   80.62	 89.30	 96.70	 88.87   93.00	  n/a	  n/a	 93.00   87.13    n/a
+Danae Paniagua        13085	 70.00	 75.00	 10.00	 51.67   51.90	 87.80	  n/a	 69.85   74.42	 61.90	 42.10	 59.47   33.00	  n/a	  n/a	 33.00   52.15    n/a
+Kathie Boaz           13115	 90.00	 81.30	 90.00	 87.10   87.00	 74.00	  n/a	 80.50   97.67	 90.20	 86.80	 91.56   92.00	  n/a	  n/a	 92.00   87.73    n/a
+Jerrie Nieto          13120	  0.00	 75.00	100.00	 58.33   79.40	 67.90	  n/a	 73.65   84.50	 84.80	 78.90	 82.73   89.50	  n/a	  n/a	 89.50   78.72    n/a
+Denice Hargett        13128	 80.00	 75.00	100.00	 85.00   90.10	 73.30	  n/a	 81.70   96.12	 86.30	 79.60	 87.34   90.00	  n/a	  n/a	 90.00   86.23    n/a
+Sol Mcknight          13147	100.00	 93.80	 80.00	 91.27   75.20	 76.30	  n/a	 75.75   88.37	 86.30	 66.40	 80.36   89.00	  n/a	  n/a	 89.00   83.64    n/a
+Conner Hurley         19299	 85.30	 93.00	 75.00	 84.43   87.00	 92.30	  n/a	 89.65   88.00	100.00	 75.00	 87.67   97.40	  n/a	  n/a	 97.40   91.18    n/a
+
+Class Averages for Quizzes: 80.70, Midterms: 84.61, Homework: 80.06, Final: 89.81 Current Grade  85.65
+
+
+
+Please enter an option between 1 and 10:
+1)  Print Student Scores by Student ID
+2)  Print Student Scores by Last Name
+3)  Print Student Scores for All Students
+4)  Recalculate Student Scores for a Single Student ID
+5)  Recalculate All Student Scores
+6)  Insert a score for a specific Student ID
+7)  Calculate Final Grades
+8)  Add a new student
+9)  Delete a student
+10) Exit Program
+
+Option: 7  
+Student Name	   Student ID#	Quizzes				Midterms			Homework			Final				Current	Final
+				  1       2       3       Cum	   1       2       3     Cum	   1       2       3       Cum     1       2       3      Cum	Grade	Grade
+Lavette Gilliard       3570	100.00	 87.50	100.00	 95.83   76.30	 96.90	  n/a	 86.60   83.33	 65.50	  0.00	 49.61   53.00	  n/a	  n/a	 53.00   68.83   68.83
+Torie Carriere         4782	 90.00	 87.50	 85.00	 87.50   80.20	 88.50	  n/a	 84.35   94.19	 87.50	 92.40	 91.36  102.00	  n/a	  n/a	102.00   92.40   92.40
+Corey Commons          9058	 90.00	 81.30	100.00	 90.43   91.60	 84.00	  n/a	 87.80   96.12	 86.00	 93.40	 91.84  107.00	  n/a	  n/a	107.00   95.72   95.72
+Caleb Lim              9871	 80.00	 81.30	 10.00	 57.10   72.20	 86.30	  n/a	 79.25   66.67	 72.30	 60.50	 66.49   72.00	  n/a	  n/a	 72.00   70.84   70.84
+Jeane Gershman        10843	 50.00	 81.30	 60.00	 63.77   50.40	 98.50	  n/a	 74.45   78.29	 73.20	  0.00	 50.50   42.00	  n/a	  n/a	 42.00   56.70   56.70
+Trinity Radcliff      10983	100.00	 75.00	 70.00	 81.67   96.90	 67.90	  n/a	 82.40   91.86	 84.50	 82.20	 86.19  101.00	  n/a	  n/a	101.00   89.56   89.56
+Lakesha Melchior      11170	 90.00	 81.30	 90.00	 87.10   68.70	 72.50	  n/a	 70.60   85.27	 89.30	 93.40	 89.32  101.00	  n/a	  n/a	101.00   87.46   87.46
+John Smith            11211	100.00	100.00	100.00	100.00  100.00	100.00	100.00	100.00  100.00	100.00	100.00	100.00  100.00	  n/a	  n/a	100.00  100.00  100.00
+Dara Pascale          11629	 90.00	 87.50	100.00	 92.50   85.50	 84.00	  n/a	 84.75   91.47	 81.80	 72.40	 81.89   90.00	  n/a	  n/a	 90.00   87.18   87.18
+Renita Degenhardt     11675	 90.00	 87.50	100.00	 92.50   96.20	 71.00	  n/a	 83.60  100.00	 86.60	 92.80	 93.13  108.00	  n/a	  n/a	108.00   95.38   95.38
+Cyrstal Lichtman      11684	 90.00	 81.30	100.00	 90.43   95.40	 92.30	  n/a	 93.85   96.12	 86.90	 92.80	 91.94  104.00	  n/a	  n/a	104.00   96.51   96.51
+Tanja Start           11714	 90.00	 93.80	 85.00	 89.60   88.50	 99.20	  n/a	 93.85   92.25	 65.60	 78.30	 78.72  105.00	  n/a	  n/a	105.00   94.09   94.09
+Clarita Marcinkowski  11756	100.00	 81.30	100.00	 93.77   99.20	 87.00	  n/a	 93.10  100.00	 90.20	 92.10	 94.10  103.00	  n/a	  n/a	103.00   96.86   96.86
+Leonore Rogowski      11777	 90.00	 93.80	 80.00	 87.93   91.60	100.80	  n/a	 96.20   86.05	 88.10	 86.10	 86.75  100.00	  n/a	  n/a	100.00   94.40   94.40
+Melodi Hanselman      11800	 90.00	 81.30	 90.00	 87.10   78.60	 90.10	  n/a	 84.35   93.02	 93.50	  0.00	 62.17   81.00	  n/a	  n/a	 81.00   79.15   79.15
+Hilton Luedke         11805	 80.00	 62.50	  0.00	 47.50   47.30	 48.90	  n/a	 48.10    0.00	 31.80	 27.60	 19.80   53.00	  n/a	  n/a	 53.00   44.06   44.06
+Kayleigh Bleich       11811	 62.50	 87.50	100.00	 83.33   87.80	100.80	  n/a	 94.30   93.80	 83.00	 90.80	 89.20   99.00	  n/a	  n/a	 99.00   93.28   93.28
+Deeanna Gregorich     11828	 90.00	 87.50	 80.00	 85.83  100.00	100.80	  n/a	100.40  100.00	 77.10	 96.70	 91.27  101.00	  n/a	  n/a	101.00   96.60   96.60
+Darwin Faison         11836	 90.00	  0.00	  0.00	 30.00   82.40	 92.40	  n/a	 87.40    0.00	  0.00	 16.40	  5.47   41.00	  n/a	  n/a	 41.00   46.16   46.16
+Sammie Malcom         11884	 80.00	 81.30	  0.00	 53.77   86.30	 85.50	  n/a	 85.90   86.05	 82.10	 69.70	 79.28   90.00	  n/a	  n/a	 90.00   81.19   81.19
+Madalene Kelch        11929	 90.00	 93.80	 85.00	 89.60   85.50	 91.60	  n/a	 88.55   96.12	 84.50	 77.60	 86.07  102.00	  n/a	  n/a	102.00   92.92   92.92
+Leoma Maggio          11951	 90.00	 81.30	100.00	 90.43   81.70	 74.80	  n/a	 78.25   97.67	 84.20	 90.80	 90.89  100.00	  n/a	  n/a	100.00   90.22   90.22
+Lexie Loiacono        11952	 90.00	100.00	 90.00	 93.33   80.20	102.30	  n/a	 91.25   88.76	 60.40	 80.20	 76.45   79.00	  n/a	  n/a	 79.00   84.32   84.32
+Jenniffer Gong        11963	 70.00	 87.50	 90.00	 82.50  101.50	 87.00	  n/a	 94.25   82.95	 71.40	 78.90	 77.75   97.00	  n/a	  n/a	 97.00   90.15   90.15
+Rico Longoria         12016	 90.00	 93.80	  0.00	 61.27   88.90	103.80	  n/a	 96.35   90.70	 85.40	 82.90	 86.33  102.00	  n/a	  n/a	102.00   91.06   91.06
+Dani Calcagno         12052	 90.00	 87.50	100.00	 92.50  107.60	 84.00	  n/a	 95.80   84.50	 81.30	 92.10	 85.97  106.00	  n/a	  n/a	106.00   96.91   96.91
+Soledad Vo            12075	 80.00	 68.80	 75.00	 74.60    n/a	  n/a	  n/a	  n/a	 88.37	 82.10	 74.30	 81.59   84.00	  n/a	  n/a	 84.00   86.91   56.91
+Eufemia Brunke        12080	 90.00	 75.00	100.00	 88.33   84.00	 82.40	  n/a	 83.20   97.67	 88.40	 77.60	 87.89  104.00	  n/a	  n/a	104.00   92.19   92.19
+Horace Rosengarten    12082	 80.00	100.00	100.00	 93.33   89.30	 98.50	  n/a	 93.90   80.62	 80.40	 87.50	 82.84   89.00	  n/a	  n/a	 89.00   89.89   89.89
+Vikki Rohan           12097	 90.00	 81.30	 70.00	 80.43   85.50	 93.10	  n/a	 89.30   96.12	 80.90	 69.70	 82.24  100.00	  n/a	  n/a	100.00   90.30   90.30
+Gonzalo Salo          12149	 90.00	100.00	100.00	 96.67  107.60	 76.30	  n/a	 91.95   97.48	 85.40	 92.10	 91.66  104.00	  n/a	  n/a	104.00   96.82   96.82
+Sarai Mancilla        12150	 90.00	 68.80	 80.00	 79.60  101.50	 96.90	  n/a	 99.20   82.56	 85.70	 92.80	 87.02   90.00	  n/a	  n/a	 90.00   90.60   90.60
+Lea Bayles            12163	100.00	 87.50	 60.00	 82.50  103.10	 90.10	  n/a	 96.60   94.57	 82.10	 92.10	 89.59   93.00	  n/a	  n/a	 93.00   91.82   91.82
+Filiberto Callison    12178	 90.00	 81.30	 70.00	 80.43   89.30	 89.30	  n/a	 89.30   96.12	 87.50	 89.50	 91.04   87.00	  n/a	  n/a	 87.00   87.51   87.51
+Eliz Stockstill       12591	 80.00	 87.50	100.00	 89.17   95.40	 87.00	  n/a	 91.20   82.95	 85.40	 96.70	 88.35   98.00	  n/a	  n/a	 98.00   92.71   92.71
+Brunilda Gassner      12764	  0.00	 87.50	 90.00	 59.17    n/a	 93.10	  n/a	 93.10   80.62	 89.30	 96.70	 88.87   93.00	  n/a	  n/a	 93.00   87.13   87.13
+Danae Paniagua        13085	 70.00	 75.00	 10.00	 51.67   51.90	 87.80	  n/a	 69.85   74.42	 61.90	 42.10	 59.47   33.00	  n/a	  n/a	 33.00   52.15   52.15
+Kathie Boaz           13115	 90.00	 81.30	 90.00	 87.10   87.00	 74.00	  n/a	 80.50   97.67	 90.20	 86.80	 91.56   92.00	  n/a	  n/a	 92.00   87.73   87.73
+Jerrie Nieto          13120	  0.00	 75.00	100.00	 58.33   79.40	 67.90	  n/a	 73.65   84.50	 84.80	 78.90	 82.73   89.50	  n/a	  n/a	 89.50   78.72   78.72
+Denice Hargett        13128	 80.00	 75.00	100.00	 85.00   90.10	 73.30	  n/a	 81.70   96.12	 86.30	 79.60	 87.34   90.00	  n/a	  n/a	 90.00   86.23   86.23
+Sol Mcknight          13147	100.00	 93.80	 80.00	 91.27   75.20	 76.30	  n/a	 75.75   88.37	 86.30	 66.40	 80.36   89.00	  n/a	  n/a	 89.00   83.64   83.64
+Conner Hurley         19299	 85.30	 93.00	 75.00	 84.43   87.00	 92.30	  n/a	 89.65   88.00	100.00	 75.00	 87.67   97.40	  n/a	  n/a	 97.40   91.18   91.18
+
+Class Averages for Quizzes: 80.70, Midterms: 84.61, Homework: 80.06, Final: 89.81 Current Grade  85.65
+
+
+
+Please enter an option between 1 and 10:
+1)  Print Student Scores by Student ID
+2)  Print Student Scores by Last Name
+3)  Print Student Scores for All Students
+4)  Recalculate Student Scores for a Single Student ID
+5)  Recalculate All Student Scores
+6)  Insert a score for a specific Student ID
+7)  Calculate Final Grades
+8)  Add a new student
+9)  Delete a student
+10) Exit Program
+
+Option:  9
+Please enter the student ID  number you wish to delete, followed by enter.
+11929
+Do you really want to delete student ID number 11929, Madalene Kelch?
+If yes, enter 1.  If no, enter 2:  1
+student ID number 11929, Madalene Kelch has been deleted.
+
+
+Please enter an option between 1 and 10:
+1)  Print Student Scores by Student ID
+2)  Print Student Scores by Last Name
+3)  Print Student Scores for All Students
+4)  Recalculate Student Scores for a Single Student ID
+5)  Recalculate All Student Scores
+6)  Insert a score for a specific Student ID
+7)  Calculate Final Grades
+8)  Add a new student
+9)  Delete a student
+10) Exit Program
+
+Option:  3
+Student Name	   Student ID#	Quizzes				Midterms			Homework			Final				Current	Final
+				  1       2       3       Cum	   1       2       3     Cum	   1       2       3       Cum     1       2       3      Cum	Grade	Grade
+Lavette Gilliard       3570	100.00	 87.50	100.00	 95.83   76.30	 96.90	  n/a	 86.60   83.33	 65.50	  0.00	 49.61   53.00	  n/a	  n/a	 53.00   68.83   68.83
+Torie Carriere         4782	 90.00	 87.50	 85.00	 87.50   80.20	 88.50	  n/a	 84.35   94.19	 87.50	 92.40	 91.36  102.00	  n/a	  n/a	102.00   92.40   92.40
+Corey Commons          9058	 90.00	 81.30	100.00	 90.43   91.60	 84.00	  n/a	 87.80   96.12	 86.00	 93.40	 91.84  107.00	  n/a	  n/a	107.00   95.72   95.72
+Caleb Lim              9871	 80.00	 81.30	 10.00	 57.10   72.20	 86.30	  n/a	 79.25   66.67	 72.30	 60.50	 66.49   72.00	  n/a	  n/a	 72.00   70.84   70.84
+Jeane Gershman        10843	 50.00	 81.30	 60.00	 63.77   50.40	 98.50	  n/a	 74.45   78.29	 73.20	  0.00	 50.50   42.00	  n/a	  n/a	 42.00   56.70   56.70
+Trinity Radcliff      10983	100.00	 75.00	 70.00	 81.67   96.90	 67.90	  n/a	 82.40   91.86	 84.50	 82.20	 86.19  101.00	  n/a	  n/a	101.00   89.56   89.56
+Lakesha Melchior      11170	 90.00	 81.30	 90.00	 87.10   68.70	 72.50	  n/a	 70.60   85.27	 89.30	 93.40	 89.32  101.00	  n/a	  n/a	101.00   87.46   87.46
+John Smith            11211	100.00	100.00	100.00	100.00  100.00	100.00	100.00	100.00  100.00	100.00	100.00	100.00  100.00	  n/a	  n/a	100.00  100.00  100.00
+Dara Pascale          11629	 90.00	 87.50	100.00	 92.50   85.50	 84.00	  n/a	 84.75   91.47	 81.80	 72.40	 81.89   90.00	  n/a	  n/a	 90.00   87.18   87.18
+Renita Degenhardt     11675	 90.00	 87.50	100.00	 92.50   96.20	 71.00	  n/a	 83.60  100.00	 86.60	 92.80	 93.13  108.00	  n/a	  n/a	108.00   95.38   95.38
+Cyrstal Lichtman      11684	 90.00	 81.30	100.00	 90.43   95.40	 92.30	  n/a	 93.85   96.12	 86.90	 92.80	 91.94  104.00	  n/a	  n/a	104.00   96.51   96.51
+Tanja Start           11714	 90.00	 93.80	 85.00	 89.60   88.50	 99.20	  n/a	 93.85   92.25	 65.60	 78.30	 78.72  105.00	  n/a	  n/a	105.00   94.09   94.09
+Clarita Marcinkowski  11756	100.00	 81.30	100.00	 93.77   99.20	 87.00	  n/a	 93.10  100.00	 90.20	 92.10	 94.10  103.00	  n/a	  n/a	103.00   96.86   96.86
+Leonore Rogowski      11777	 90.00	 93.80	 80.00	 87.93   91.60	100.80	  n/a	 96.20   86.05	 88.10	 86.10	 86.75  100.00	  n/a	  n/a	100.00   94.40   94.40
+Melodi Hanselman      11800	 90.00	 81.30	 90.00	 87.10   78.60	 90.10	  n/a	 84.35   93.02	 93.50	  0.00	 62.17   81.00	  n/a	  n/a	 81.00   79.15   79.15
+Hilton Luedke         11805	 80.00	 62.50	  0.00	 47.50   47.30	 48.90	  n/a	 48.10    0.00	 31.80	 27.60	 19.80   53.00	  n/a	  n/a	 53.00   44.06   44.06
+Kayleigh Bleich       11811	 62.50	 87.50	100.00	 83.33   87.80	100.80	  n/a	 94.30   93.80	 83.00	 90.80	 89.20   99.00	  n/a	  n/a	 99.00   93.28   93.28
+Deeanna Gregorich     11828	 90.00	 87.50	 80.00	 85.83  100.00	100.80	  n/a	100.40  100.00	 77.10	 96.70	 91.27  101.00	  n/a	  n/a	101.00   96.60   96.60
+Darwin Faison         11836	 90.00	  0.00	  0.00	 30.00   82.40	 92.40	  n/a	 87.40    0.00	  0.00	 16.40	  5.47   41.00	  n/a	  n/a	 41.00   46.16   46.16
+Sammie Malcom         11884	 80.00	 81.30	  0.00	 53.77   86.30	 85.50	  n/a	 85.90   86.05	 82.10	 69.70	 79.28   90.00	  n/a	  n/a	 90.00   81.19   81.19
+Leoma Maggio          11951	 90.00	 81.30	100.00	 90.43   81.70	 74.80	  n/a	 78.25   97.67	 84.20	 90.80	 90.89  100.00	  n/a	  n/a	100.00   90.22   90.22
+Lexie Loiacono        11952	 90.00	100.00	 90.00	 93.33   80.20	102.30	  n/a	 91.25   88.76	 60.40	 80.20	 76.45   79.00	  n/a	  n/a	 79.00   84.32   84.32
+Jenniffer Gong        11963	 70.00	 87.50	 90.00	 82.50  101.50	 87.00	  n/a	 94.25   82.95	 71.40	 78.90	 77.75   97.00	  n/a	  n/a	 97.00   90.15   90.15
+Rico Longoria         12016	 90.00	 93.80	  0.00	 61.27   88.90	103.80	  n/a	 96.35   90.70	 85.40	 82.90	 86.33  102.00	  n/a	  n/a	102.00   91.06   91.06
+Dani Calcagno         12052	 90.00	 87.50	100.00	 92.50  107.60	 84.00	  n/a	 95.80   84.50	 81.30	 92.10	 85.97  106.00	  n/a	  n/a	106.00   96.91   96.91
+Soledad Vo            12075	 80.00	 68.80	 75.00	 74.60    n/a	  n/a	  n/a	  n/a	 88.37	 82.10	 74.30	 81.59   84.00	  n/a	  n/a	 84.00   86.91   56.91
+Eufemia Brunke        12080	 90.00	 75.00	100.00	 88.33   84.00	 82.40	  n/a	 83.20   97.67	 88.40	 77.60	 87.89  104.00	  n/a	  n/a	104.00   92.19   92.19
+Horace Rosengarten    12082	 80.00	100.00	100.00	 93.33   89.30	 98.50	  n/a	 93.90   80.62	 80.40	 87.50	 82.84   89.00	  n/a	  n/a	 89.00   89.89   89.89
+Vikki Rohan           12097	 90.00	 81.30	 70.00	 80.43   85.50	 93.10	  n/a	 89.30   96.12	 80.90	 69.70	 82.24  100.00	  n/a	  n/a	100.00   90.30   90.30
+Gonzalo Salo          12149	 90.00	100.00	100.00	 96.67  107.60	 76.30	  n/a	 91.95   97.48	 85.40	 92.10	 91.66  104.00	  n/a	  n/a	104.00   96.82   96.82
+Sarai Mancilla        12150	 90.00	 68.80	 80.00	 79.60  101.50	 96.90	  n/a	 99.20   82.56	 85.70	 92.80	 87.02   90.00	  n/a	  n/a	 90.00   90.60   90.60
+Lea Bayles            12163	100.00	 87.50	 60.00	 82.50  103.10	 90.10	  n/a	 96.60   94.57	 82.10	 92.10	 89.59   93.00	  n/a	  n/a	 93.00   91.82   91.82
+Filiberto Callison    12178	 90.00	 81.30	 70.00	 80.43   89.30	 89.30	  n/a	 89.30   96.12	 87.50	 89.50	 91.04   87.00	  n/a	  n/a	 87.00   87.51   87.51
+Eliz Stockstill       12591	 80.00	 87.50	100.00	 89.17   95.40	 87.00	  n/a	 91.20   82.95	 85.40	 96.70	 88.35   98.00	  n/a	  n/a	 98.00   92.71   92.71
+Brunilda Gassner      12764	  0.00	 87.50	 90.00	 59.17    n/a	 93.10	  n/a	 93.10   80.62	 89.30	 96.70	 88.87   93.00	  n/a	  n/a	 93.00   87.13   87.13
+Danae Paniagua        13085	 70.00	 75.00	 10.00	 51.67   51.90	 87.80	  n/a	 69.85   74.42	 61.90	 42.10	 59.47   33.00	  n/a	  n/a	 33.00   52.15   52.15
+Kathie Boaz           13115	 90.00	 81.30	 90.00	 87.10   87.00	 74.00	  n/a	 80.50   97.67	 90.20	 86.80	 91.56   92.00	  n/a	  n/a	 92.00   87.73   87.73
+Jerrie Nieto          13120	  0.00	 75.00	100.00	 58.33   79.40	 67.90	  n/a	 73.65   84.50	 84.80	 78.90	 82.73   89.50	  n/a	  n/a	 89.50   78.72   78.72
+Denice Hargett        13128	 80.00	 75.00	100.00	 85.00   90.10	 73.30	  n/a	 81.70   96.12	 86.30	 79.60	 87.34   90.00	  n/a	  n/a	 90.00   86.23   86.23
+Sol Mcknight          13147	100.00	 93.80	 80.00	 91.27   75.20	 76.30	  n/a	 75.75   88.37	 86.30	 66.40	 80.36   89.00	  n/a	  n/a	 89.00   83.64   83.64
+Conner Hurley         19299	 85.30	 93.00	 75.00	 84.43   87.00	 92.30	  n/a	 89.65   88.00	100.00	 75.00	 87.67   97.40	  n/a	  n/a	 97.40   91.18   91.18
+
+Class Averages for Quizzes: 80.48, Midterms: 84.51, Homework: 79.92, Final: 89.51 Current Grade  85.48
+
+
+
+Please enter an option between 1 and 10:
+1)  Print Student Scores by Student ID
+2)  Print Student Scores by Last Name
+3)  Print Student Scores for All Students
+4)  Recalculate Student Scores for a Single Student ID
+5)  Recalculate All Student Scores
+6)  Insert a score for a specific Student ID
+7)  Calculate Final Grades
+8)  Add a new student
+9)  Delete a student
+10) Exit Program
+
+Option:  5
+Student Name: Lavette Gilliard         	Quizzes Cumlative:  95.83	Midterms Cumlative:  86.60	Homework Cumlative:  49.61	Final Cumlative:  53.00	Current Grade is:  68.83
+Student Name: Torie Carriere           	Quizzes Cumlative:  87.50	Midterms Cumlative:  84.35	Homework Cumlative:  91.36	Final Cumlative: 102.00	Current Grade is:  92.40
+Student Name: Corey Commons            	Quizzes Cumlative:  90.43	Midterms Cumlative:  87.80	Homework Cumlative:  91.84	Final Cumlative: 107.00	Current Grade is:  95.72
+Student Name: Caleb Lim                	Quizzes Cumlative:  57.10	Midterms Cumlative:  79.25	Homework Cumlative:  66.49	Final Cumlative:  72.00	Current Grade is:  70.84
+Student Name: Jeane Gershman           	Quizzes Cumlative:  63.77	Midterms Cumlative:  74.45	Homework Cumlative:  50.50	Final Cumlative:  42.00	Current Grade is:  56.70
+Student Name: Trinity Radcliff         	Quizzes Cumlative:  81.67	Midterms Cumlative:  82.40	Homework Cumlative:  86.19	Final Cumlative: 101.00	Current Grade is:  89.56
+Student Name: Lakesha Melchior         	Quizzes Cumlative:  87.10	Midterms Cumlative:  70.60	Homework Cumlative:  89.32	Final Cumlative: 101.00	Current Grade is:  87.46
+Student Name: John Smith               	Quizzes Cumlative: 100.00	Midterms Cumlative: 100.00	Homework Cumlative: 100.00	Final Cumlative: 100.00	Current Grade is: 100.00
+Student Name: Dara Pascale             	Quizzes Cumlative:  92.50	Midterms Cumlative:  84.75	Homework Cumlative:  81.89	Final Cumlative:  90.00	Current Grade is:  87.18
+Student Name: Renita Degenhardt        	Quizzes Cumlative:  92.50	Midterms Cumlative:  83.60	Homework Cumlative:  93.13	Final Cumlative: 108.00	Current Grade is:  95.38
+Student Name: Cyrstal Lichtman         	Quizzes Cumlative:  90.43	Midterms Cumlative:  93.85	Homework Cumlative:  91.94	Final Cumlative: 104.00	Current Grade is:  96.51
+Student Name: Tanja Start              	Quizzes Cumlative:  89.60	Midterms Cumlative:  93.85	Homework Cumlative:  78.72	Final Cumlative: 105.00	Current Grade is:  94.09
+Student Name: Clarita Marcinkowski     	Quizzes Cumlative:  93.77	Midterms Cumlative:  93.10	Homework Cumlative:  94.10	Final Cumlative: 103.00	Current Grade is:  96.86
+Student Name: Leonore Rogowski         	Quizzes Cumlative:  87.93	Midterms Cumlative:  96.20	Homework Cumlative:  86.75	Final Cumlative: 100.00	Current Grade is:  94.40
+Student Name: Melodi Hanselman         	Quizzes Cumlative:  87.10	Midterms Cumlative:  84.35	Homework Cumlative:  62.17	Final Cumlative:  81.00	Current Grade is:  79.15
+Student Name: Hilton Luedke            	Quizzes Cumlative:  47.50	Midterms Cumlative:  48.10	Homework Cumlative:  19.80	Final Cumlative:  53.00	Current Grade is:  44.06
+Student Name: Kayleigh Bleich          	Quizzes Cumlative:  83.33	Midterms Cumlative:  94.30	Homework Cumlative:  89.20	Final Cumlative:  99.00	Current Grade is:  93.28
+Student Name: Deeanna Gregorich        	Quizzes Cumlative:  85.83	Midterms Cumlative: 100.40	Homework Cumlative:  91.27	Final Cumlative: 101.00	Current Grade is:  96.60
+Student Name: Darwin Faison            	Quizzes Cumlative:  30.00	Midterms Cumlative:  87.40	Homework Cumlative:   5.47	Final Cumlative:  41.00	Current Grade is:  46.16
+Student Name: Sammie Malcom            	Quizzes Cumlative:  53.77	Midterms Cumlative:  85.90	Homework Cumlative:  79.28	Final Cumlative:  90.00	Current Grade is:  81.19
+Student Name: Leoma Maggio             	Quizzes Cumlative:  90.43	Midterms Cumlative:  78.25	Homework Cumlative:  90.89	Final Cumlative: 100.00	Current Grade is:  90.22
+Student Name: Lexie Loiacono           	Quizzes Cumlative:  93.33	Midterms Cumlative:  91.25	Homework Cumlative:  76.45	Final Cumlative:  79.00	Current Grade is:  84.32
+Student Name: Jenniffer Gong           	Quizzes Cumlative:  82.50	Midterms Cumlative:  94.25	Homework Cumlative:  77.75	Final Cumlative:  97.00	Current Grade is:  90.15
+Student Name: Rico Longoria            	Quizzes Cumlative:  61.27	Midterms Cumlative:  96.35	Homework Cumlative:  86.33	Final Cumlative: 102.00	Current Grade is:  91.06
+Student Name: Dani Calcagno            	Quizzes Cumlative:  92.50	Midterms Cumlative:  95.80	Homework Cumlative:  85.97	Final Cumlative: 106.00	Current Grade is:  96.91
+Student Name: Soledad Vo               	Quizzes Cumlative:  74.60	Midterms Cumlative:  -1.00	Homework Cumlative:  81.59	Final Cumlative:  84.00	Current Grade is:  86.91
+Student Name: Eufemia Brunke           	Quizzes Cumlative:  88.33	Midterms Cumlative:  83.20	Homework Cumlative:  87.89	Final Cumlative: 104.00	Current Grade is:  92.19
+Student Name: Horace Rosengarten       	Quizzes Cumlative:  93.33	Midterms Cumlative:  93.90	Homework Cumlative:  82.84	Final Cumlative:  89.00	Current Grade is:  89.89
+Student Name: Vikki Rohan              	Quizzes Cumlative:  80.43	Midterms Cumlative:  89.30	Homework Cumlative:  82.24	Final Cumlative: 100.00	Current Grade is:  90.30
+Student Name: Gonzalo Salo             	Quizzes Cumlative:  96.67	Midterms Cumlative:  91.95	Homework Cumlative:  91.66	Final Cumlative: 104.00	Current Grade is:  96.82
+Student Name: Sarai Mancilla           	Quizzes Cumlative:  79.60	Midterms Cumlative:  99.20	Homework Cumlative:  87.02	Final Cumlative:  90.00	Current Grade is:  90.60
+Student Name: Lea Bayles               	Quizzes Cumlative:  82.50	Midterms Cumlative:  96.60	Homework Cumlative:  89.59	Final Cumlative:  93.00	Current Grade is:  91.82
+Student Name: Filiberto Callison       	Quizzes Cumlative:  80.43	Midterms Cumlative:  89.30	Homework Cumlative:  91.04	Final Cumlative:  87.00	Current Grade is:  87.51
+Student Name: Eliz Stockstill          	Quizzes Cumlative:  89.17	Midterms Cumlative:  91.20	Homework Cumlative:  88.35	Final Cumlative:  98.00	Current Grade is:  92.71
+Student Name: Brunilda Gassner         	Quizzes Cumlative:  59.17	Midterms Cumlative:  93.10	Homework Cumlative:  88.87	Final Cumlative:  93.00	Current Grade is:  87.13
+Student Name: Danae Paniagua           	Quizzes Cumlative:  51.67	Midterms Cumlative:  69.85	Homework Cumlative:  59.47	Final Cumlative:  33.00	Current Grade is:  52.15
+Student Name: Kathie Boaz              	Quizzes Cumlative:  87.10	Midterms Cumlative:  80.50	Homework Cumlative:  91.56	Final Cumlative:  92.00	Current Grade is:  87.73
+Student Name: Jerrie Nieto             	Quizzes Cumlative:  58.33	Midterms Cumlative:  73.65	Homework Cumlative:  82.73	Final Cumlative:  89.50	Current Grade is:  78.72
+Student Name: Denice Hargett           	Quizzes Cumlative:  85.00	Midterms Cumlative:  81.70	Homework Cumlative:  87.34	Final Cumlative:  90.00	Current Grade is:  86.23
+Student Name: Sol Mcknight             	Quizzes Cumlative:  91.27	Midterms Cumlative:  75.75	Homework Cumlative:  80.36	Final Cumlative:  89.00	Current Grade is:  83.64
+Student Name: Conner Hurley            	Quizzes Cumlative:  84.43	Midterms Cumlative:  89.65	Homework Cumlative:  87.67	Final Cumlative:  97.40	Current Grade is:  91.18
+
+
+Please enter an option between 1 and 10:
+1)  Print Student Scores by Student ID
+2)  Print Student Scores by Last Name
+3)  Print Student Scores for All Students
+4)  Recalculate Student Scores for a Single Student ID
+5)  Recalculate All Student Scores
+6)  Insert a score for a specific Student ID
+7)  Calculate Final Grades
+8)  Add a new student
+9)  Delete a student
+10) Exit Program
+
+Option:  10
+A total of 41 student records were written to file class_records_out

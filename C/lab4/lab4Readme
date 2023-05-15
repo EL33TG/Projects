@@ -1,0 +1,8 @@
+THIS IS THE README FILE FOR LAB4.
+BY SUBMITTING THIS FILE TO CARMEN, I CERTIFY THAT I HAVE PERFORMED ALL OF THE WORK TO DETERMINE THE ANSWERS FOUND WITHIN THIS FILE MYSELF WITH NO ASSISTANCE FROM ANY PERSON OTHER THAN THE INSTRUCTOR OF THIS COURSE OR ONE OF OUR UNDERGRADUATE GRADERS. I UNDERSTAND THAT TO DO OTHERWISE IS A VIOLATION OF OHIO STATE UNIVERSITY’S ACADEMIC INTEGRITY POLICY.
+
+1. Brenden Boswell
+2. 21 hours
+3. I was suprisingly stuck on a couple of random issues. I had a bit of difficulty at first finding clever ways to manipulate the strings but was able to ultimately figure it out. Overal, I found this lab to be challenging, which took a bit of time to develop. In the end, I am proud of my results.
+4. I used GDB to fiddle through some of my segmentation fault errors. I was able to successfully fix a couple of problems this way. I set the breakpoints by applying "Set breakpoint @location", I generally would set them at the start of the function, run the program and than step through until I reached my error.
+
